@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\kingen\obj\Debug\net7.0\kingen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\kingen\obj\Debug\net7.0\kingen.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\kingen\obj\Debug\net7.0\kingen.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\kingen\obj\Debug\net7.0\kingen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\kingen\bin\Debug\net7.0\kingen.exe
+C:\Users\Admin\Documents\GitHub\kingen\bin\Debug\net7.0\kingen.deps.json
+C:\Users\Admin\Documents\GitHub\kingen\bin\Debug\net7.0\kingen.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\kingen\bin\Debug\net7.0\kingen.dll
+C:\Users\Admin\Documents\GitHub\kingen\bin\Debug\net7.0\kingen.pdb
+C:\Users\Admin\Documents\GitHub\kingen\obj\Debug\net7.0\kingen.dll
+C:\Users\Admin\Documents\GitHub\kingen\obj\Debug\net7.0\refint\kingen.dll
+C:\Users\Admin\Documents\GitHub\kingen\obj\Debug\net7.0\kingen.pdb
+C:\Users\Admin\Documents\GitHub\kingen\obj\Debug\net7.0\kingen.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\kingen\obj\Debug\net7.0\ref\kingen.dll
